@@ -12,8 +12,9 @@
 # PHJ-a 
 
 ## 구성원 및 역할
-### 남기주
-### 박해준
-### 성민석
-### 양기정
-### 허대웅
+
+|                   | 남기주                                                                                       | 박해준                                                                                       | 성민석                                                                                       | 양기정                                                                                       | 허대웅                                                                                       |
+|:-----------------:|:---------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------:|
+| **GitHub 프로필** | [![남기주](https://avatars.githubusercontent.com/namkijoo)](https://github.com/namkijoo) | [![박해준](https://avatars.githubusercontent.com/phjjj)](https://github.com/phjjj) | [![성민석](https://avatars.githubusercontent.com/minseoook)](https://github.com/minseoook) | [![양기정](https://avatars.githubusercontent.com/EvansKJ57)](https://github.com/EvansKJ57) | [![허대웅](https://avatars.githubusercontent.com/gjeodnd12165)](https://github.com/gjeodnd12165) |
+| **역할** | FE  | FE  | FE  | BE  | BE  |
+
